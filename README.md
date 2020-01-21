@@ -1,2 +1,0 @@
-# MaheshJasti
-My Personal Git
